@@ -7,6 +7,6 @@ public class Loginpage {
 		System.out.println("Login Page");
 	}
 	public void logisete() {
-		System.out.println("set");
+		System.out.println("sevfgt");
 	}
 }

@@ -1,8 +1,10 @@
 package com.qa.pages;
 
-public class DealsPage {
+import org.openqa.selenium.WebDriver;
 
-	public DealsPage() {
-		
+public class DealsPage {
+	WebDriver driver;
+	public DealsPage(WebDriver driver) {
+		this.driver = driver;
 	}
 }
